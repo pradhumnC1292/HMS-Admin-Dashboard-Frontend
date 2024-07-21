@@ -1,3 +1,5 @@
+## See My second Github : https://github.com/PradhumnChandrawat
+
 # Hospital Management System
 ### This project consists of two frontend applications for a Hospital Management System: a general frontend for patients and a dashboard for administrators and staff.
 
